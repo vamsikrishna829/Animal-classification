@@ -126,8 +126,11 @@
 **output:**
 
   Final Accuracy: 0.68
+  
    Final Validation Accuracy: 0.84
+   
    Prediction Result:
+   
   1/1 ━━━━━━━━━━━━━━━━━━━━ 1s 1s/step
   
   <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/fc5a5553-5a8a-41aa-8fb1-3e6658113b20" />
